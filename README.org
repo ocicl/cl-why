@@ -1,0 +1,10 @@
+* cl-why
+
+(X)HTML generation macros, fork of CL-WHO
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jpcima/cl-why.git   |
+| commit  | decd714  |
+| systems | cl-why |
+|---------+-------------------------------------------|
+
